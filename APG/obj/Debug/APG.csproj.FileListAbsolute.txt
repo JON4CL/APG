@@ -1,0 +1,3 @@
+C:\_GITHUB_PERSONAL\APNG\APG\bin\Debug\APG.exe.config
+C:\_GITHUB_PERSONAL\APG\APG\bin\Debug\APG.exe.config
+C:\_GITHUB_PERSONAL\_APG\APG\bin\Debug\APG.exe.config
